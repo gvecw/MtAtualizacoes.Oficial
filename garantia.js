@@ -140,7 +140,7 @@ window.addEventListener('load', function() {
                 </div>
                 
                 <!-- CTA Button -->
-                <a href="#ofertas" onclick="document.querySelector('a[href*=\'19.9\']').scrollIntoView({behavior: 'smooth'})" class="cta-bottom-button">
+                <a href="#ofertas" onclick="document.querySelector('a[href*=\'tilimcheckout\']').scrollIntoView({behavior: 'smooth'})" class="cta-bottom-button">
                     QUERO GARANTIR MEU ACESSO AGORA!
                 </a>
             </div>`;
